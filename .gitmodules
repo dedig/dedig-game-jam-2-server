@@ -1,0 +1,4 @@
+[submodule "bottle"]
+	path = bottle
+	url = https://github.com/bottlepy/bottle.git
+	branch = release-0.12
